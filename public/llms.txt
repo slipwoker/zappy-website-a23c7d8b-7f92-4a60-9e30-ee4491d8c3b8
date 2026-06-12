@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://midrashart-a23c7d8b.zappy5.app
+https://example.com
 הכניסו את יופיו המרגש של המדרש אל ביתכם עם ציורים מקוריים המשלבים תורה ויצירה. אמנות יהודית דתית למכירה בגוונים רכים ומלאי אור. התחילו את המסע הרוחני שלכם עוד היום.
 
 ### גישה
-https://midrashart-a23c7d8b.zappy5.app/approach
+https://example.com/approach
 גלו איך לימוד תורה פוגש מכחול והופך לחוויה רוחנית. הגישה שלנו מחברת עומק יהודי עם אסתטיקה עדינה ומלטפת. למה להסתפק בקיר ריק כשהוא יכול לספר סיפור נצחי?
 
 ### אודות
-https://midrashart-a23c7d8b.zappy5.app/about
+https://example.com/about
 מאחורי כל יצירה עומדת אהבה עמוקה למסורת וליופי. הכירו את הסיפור של MidrashArt ואת החזון להפיץ אור תורני דרך אמנות. הצטרפו לקהילה שמאמינה שלכל נפש מגיע בית מלא השראה.
 
 ### צור קשר
-https://midrashart-a23c7d8b.zappy5.app/contact
+https://example.com/contact
 מוכנים להביא את נשמת המדרש אל קירותיכם? צרו קשר עוד היום להזמנת ציורים אישיים, ייעוץ אמנותי או שיתופי פעולה חינוכיים. היצירה המושלמת לבית היהודי שלכם מחכה לכם כאן.
 
 ### Products
-https://midrashart-a23c7d8b.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - MidrashArt
 
 ### Product Detail
-https://midrashart-a23c7d8b.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - MidrashArt
 
 ### Category
-https://midrashart-a23c7d8b.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - MidrashArt
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://midrashart-a23c7d8b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://midrashart-a23c7d8b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://midrashart-a23c7d8b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -73,8 +73,8 @@ Art & Jewish Education
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://midrashart-a23c7d8b.zappy5.app/sitemap.xml
-- Robots: https://midrashart-a23c7d8b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://midrashart-a23c7d8b.zappy5.app/llms-full.txt
-- Products (JSON): https://midrashart-a23c7d8b.zappy5.app/products.json
-- Products (Google Merchant RSS): https://midrashart-a23c7d8b.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
