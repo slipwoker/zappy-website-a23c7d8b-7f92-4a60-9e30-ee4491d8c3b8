@@ -52,7 +52,22 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 2**
+
+### אלישע בן אבויה
+https://example.com/product/alysha-bn-abvyh-apgu6z
+- Price: 100.00 ILS
+- Availability: In stock
+- Description: איור המדמה את הצנון במדרש הידוע על איך אלישע בן אבויה נהפך ל-"אחר"
+- Image: https://example.com/assets/product-1781272335889-ke6t2h.webp
+
+### אליהו הנביא ועץ החיים
+https://example.com/product/alyhv-hnbya-vats-hchyym-vtjtw9
+- Price: 100.00 ILS
+- Availability: In stock
+- Brand: MidrashArt
+- Description: ציור שמדמה מדרש המספר שבכל מוצאי שבת אליהו הנביא נכנס לגן עדן, יושב תחת 'עץ-החיים' וכותב את זכויותיהם של בני ישראל, בפרט אלו ששמרו על קדושת השבת (מנהגי מהר"ש מנוישטט סימן צד. הובא במטה משה, עמוד העבודה, תקב; כף החיים, רצה, יט.)
+- Image: https://example.com/assets/product-1781271357927-58wokn.webp
 
 ---
 

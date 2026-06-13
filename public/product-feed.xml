@@ -4,6 +4,29 @@
     <title>MidrashArt</title>
     <link>https://example.com</link>
     <description>Product feed for MidrashArt</description>
-    <lastBuildDate>Fri, 12 Jun 2026 12:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 17:51:07 GMT</lastBuildDate>
+    <item>
+      <g:id>d011b053-9f98-484f-9c95-b89ec14d710f</g:id>
+      <g:title>אלישע בן אבויה</g:title>
+      <g:description>איור המדמה את הצנון במדרש הידוע על איך אלישע בן אבויה נהפך ל-&quot;אחר&quot;</g:description>
+      <g:link>https://example.com/product/alysha-bn-abvyh-apgu6z</g:link>
+      <g:image_link>https://example.com/assets/product-1781272335889-ke6t2h.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>100.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>MidrashArt</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>d2b2a2a7-581c-4ec5-b45b-aaa7af74ae22</g:id>
+      <g:title>אליהו הנביא ועץ החיים</g:title>
+      <g:description>ציור שמדמה מדרש המספר שבכל מוצאי שבת אליהו הנביא נכנס לגן עדן, יושב תחת &apos;עץ-החיים&apos; וכותב את זכויותיהם של בני ישראל, בפרט אלו ששמרו על קדושת השבת (מנהגי מהר&quot;ש מנוישטט סימן צד. הובא במטה משה, עמוד העבודה, תקב; כף החיים, רצה, יט.)</g:description>
+      <g:link>https://example.com/product/alyhv-hnbya-vats-hchyym-vtjtw9</g:link>
+      <g:image_link>https://example.com/assets/product-1781271357927-58wokn.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>100.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>MidrashArt</g:brand>
+    </item>
   </channel>
 </rss>
